@@ -26,7 +26,7 @@ export function Hero() {
               render={<a href="tel:+48665671464" />}
             >
               <Phone className="size-4" aria-hidden="true" />
-              Zadzwoń: +48 665 671 464
+              Zadzwoń: +48 601 539 070
             </Button>
             <Button
               size="lg"

@@ -42,7 +42,7 @@ export function SiteHeader() {
           ))}
           <Button size="sm" nativeButton={false} render={<a href="tel:+48665671464" />}>
             <Phone className="size-4" aria-hidden="true" />
-            +48 665 671 464
+            +48 601 539 070
           </Button>
         </nav>
 

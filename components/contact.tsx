@@ -18,10 +18,10 @@ export function Contact() {
             size="lg"
             className="bg-accent text-accent-foreground hover:bg-accent/90"
             nativeButton={false}
-            render={<a href="tel:+48665671464" />}
+            render={<a href="tel:+48601539070" />}
           >
             <Phone className="size-4" aria-hidden="true" />
-            +48 665 671 464
+            +48 601 539 070
           </Button>
           <Button
             size="lg"
