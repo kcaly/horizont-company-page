@@ -72,9 +72,9 @@ export function SiteHeader() {
               </li>
             ))}
             <li className="pt-2">
-              <Button className="w-full" nativeButton={false} render={<a href="tel:+48665671464" />}>
+              <Button className="w-full" nativeButton={false} render={<a href="tel:+48601539070" />}>
                 <Phone className="size-4" aria-hidden="true" />
-                +48 665 671 464
+                +48 601 539 070
               </Button>
             </li>
           </ul>
