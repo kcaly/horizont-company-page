@@ -28,10 +28,10 @@ export function Contact() {
             variant="outline"
             className="border-primary-foreground/30 bg-transparent text-primary-foreground hover:bg-primary-foreground/10 hover:text-primary-foreground"
             nativeButton={false}
-            render={<a href="mailto:consulting.horyzont@gmail.com" />}
+            render={<a href="mailto:kontakt@horyzont.info" />}
           >
             <Mail className="size-4" aria-hidden="true" />
-            consulting.horyzont@gmail.com
+            kontakt@horyzont.info
           </Button>
         </div>
       </div>
